@@ -1,4 +1,4 @@
-# Repositório de Projetos de Análise e Ciência de Dados 📈🔍 
+# Projetos de Análise e Ciência de Dados 📈🔍 
 Bem-vindo ao repositório de projetos de análise e ciência de dados! Aqui, você encontrará uma coleção de projetos que abordam uma variedade de técnicas, ferramentas e metodologias usadas em análise de dados, estatística e aprendizado de máquina.
 
 ## Conteúdo 📜

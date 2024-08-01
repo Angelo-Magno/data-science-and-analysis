@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto 🗂️
 
-Este projeto tem como objetivo analisar os preços de diversas matérias-primas ao longo do tempo, identificar tendências e padrões, e construir modelos preditivos.
+Este projeto tem como objetivo analisar os preços de diversas matérias-primas ao longo do tempo, identificar tendências e padrões.
 
 ## Objetivos 🎯
 
@@ -12,9 +12,6 @@ Este projeto tem como objetivo analisar os preços de diversas matérias-primas 
 
 * Visualizar as variações de preços ao longo do tempo utilizando gráficos e outras ferramentas de visualização de dados.
 
-* Desenvolver modelos de previsão de preços usando técnicas de aprendizado de máquina.
-
-* Avaliar a performance dos modelos preditivos e otimizar os parâmetros para melhorar a acurácia.
 
 ## Conteúdo 📜
 
@@ -29,14 +26,8 @@ Este projeto tem como objetivo analisar os preços de diversas matérias-primas 
 
 3. Visualização de Dados
     * Gráficos de séries temporais mostrando a variação dos preços.
-    * Gráficos de dispersão, histogramas e heatmaps para explorar relacionamentos entre variáveis.
+    * Gráficos de  dispersão e heatmaps para explorar relacionamentos entre variáveis.
 
-4. [to do]Modelagem Preditiva 
-    * Implementação de modelos de [a decidir] para previsão de preços.
-    * Comparação de performance entre diferentes modelos.
-    * Ajuste de hiperparâmetros e validação cruzada para otimização dos modelos.
-
-5. [to do]Resultados e Conclusões
+4. [to do]Resultados e Conclusões
+    * 
     * Sumário dos principais achados da análise exploratória.
-    * Avaliação da precisão dos modelos preditivos.
-    * Discussão sobre possíveis aplicações práticas e limitações dos modelos.
